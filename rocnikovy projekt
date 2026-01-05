@@ -2,7 +2,7 @@
 
 V této dokumentaci se budu převážně zaobírat původem hry Counter-Strike 1.6 a jak tahle legendární hra vznikla  
 
-Úvod do Counter-Strike 1.6 
+## Úvod do Counter-Strike 1.6 
 
 Counter-Strike je taktická first-person střílečka (FPS), ve které proti sobě bojují dva týmy -- teroristé a protiteroristé.  
 
@@ -10,7 +10,7 @@ Hra se zaměřuje na týmovou strategii, ekonomii a realistické zbraně.
 
 Verze 1.6 je nejznámější a nejoblíbenější historická verze, která se stala standardem pro kompetitivní hraní a esport po mnoho let. 
 
-Historie a vývoj hry 
+## Historie a vývoj hry 
 
 Původní koncept: 
 
@@ -20,7 +20,7 @@ Verze 1.6 byla finální opravou a balíčkem všech předchozích úprav, kter�
 
  
 
-Technologie a programování 
+## Technologie a programování 
 
 Herní engine: 
 
@@ -38,7 +38,7 @@ Modifikace CS využívá Half-Life Software Development Kit (SDK), který poskyt
 
  
 
-Herní mechanismy a systémy 
+## Herní mechanismy a systémy 
 
 Ekonomický systém: 
 
@@ -50,7 +50,7 @@ Síťový kód GoldSrc byl optimalizován tak, aby fungoval při různých pinge
 
  
 
-Mapy a design 
+## Mapy a design 
 
 Mapy ve CS jsou navrženy tak, aby: 
 
@@ -64,7 +64,7 @@ Mapy se vytvářejí pomocí Valve Hammer Editor a dalších nástrojů ze SDK.
 
  
 
-Komunitní modifikace: 
+## Komunitní modifikace: 
 
 Existuje mnoho fanouškovských módů a projektů, které si hru přizpůsobily. Jedním z nich je např. CSPromod / Counter-Strike Professional Mod (založený na Source enginu, s mechanic podobnými 1.6). 
 
@@ -88,7 +88,7 @@ GoldSrc nebyl jen „upravený Quake“, ale prakticky nový engine, který s Qu
 
  
 
-Programovací jazyky a nástroje 
+## Programovací jazyky a nástroje 
 
 Použité jazyky: 
 
@@ -107,7 +107,7 @@ Vše bylo ručně psané.
 
  
 
-Half-Life SDK 
+## Half-Life SDK 
 
 Valve vydalo Half-Life SDK, které umožňovalo psát vlastní herní logiku, uprovovat chvoání zbraní, vytvářet nové entity, měnit multiplayerová pravidla. 
 
@@ -117,7 +117,7 @@ Counter-Strike vznikl výhradně pomocí tohoto SDK.
 
  
 
-Jak se programoval Half-Life 
+## Jak se programoval Half-Life 
 
 Architektura hry 
 
@@ -137,7 +137,7 @@ To znamená, že engine zůstal stejný, ale hra samotná byla samostatná kniho
 
  
 
-AI nepřátel (revoluce v době vydání) 
+## AI nepřátel (revoluce v době vydání) 
 
 Half-Life měl pokročilou AI, která: 
 
@@ -155,7 +155,7 @@ Každý nepřítel měl:
 
  
 
-Skriptované sekvence 
+## Skriptované sekvence 
 
 Valve vytvořilo systém skriptovaných událostí, aby hra působila filmově: 
 
@@ -173,7 +173,7 @@ Valve strávilo roky laděním chyb, kdy se NPC „zasekli“ nebo rozbili skrip
 
  
 
-Programování multiplayeru a síťového kódu 
+## Programování multiplayeru a síťového kódu 
 
 Klient–server model: 
 
@@ -189,7 +189,7 @@ To bylo zásadní pro omezení cheatů.
 
  
 
-Problémy se sítí 
+## Problémy se sítí 
 
 V roce 1999–2003: 
 
@@ -205,7 +205,7 @@ Valve řešilo:
 
  
 
-Programování zbraní 
+## Programování zbraní 
 
 Každá zbraň měla: 
 
@@ -221,7 +221,7 @@ Díky tomu vznikl skill-based gameplay.
 
  
 
-Vývojové problémy a chyby 
+## Vývojové problémy a chyby 
 
 Technická omezení: 
 
@@ -239,7 +239,7 @@ Valve opravovali chyby roky. Některé bugy se staly „feature“ (např. bunny
 
  
 
-Přechod od modu ke komerční hře 
+## Přechod od modu ke komerční hře 
 
 Valve: 
 
@@ -251,7 +251,7 @@ CS 1.6 byl:
 
  
 
-Závěr 
+## Závěr 
 
 Counter-Strike 1.6 není jen hra — je to fenomén, který změnil online multiplayer ságy, inspiroval esport i mnoho dalších her. Jeho jednoduchá, ale hluboká mechanika, spolu s podporou komunity, zajistila dlouhověkost, která trvá více než dvě dekády.  
 
