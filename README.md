@@ -20,37 +20,37 @@ Verze 1.6 byla finální opravou a balíčkem všech předchozích úprav, kter�
 
  
 
-##Technologie a programování 
+## Technologie a programování 
 
-Herní engine: 
+### Herní engine: 
 
 Counter-Strike 1.6 běží na herním enginu GoldSrc, což je silně upravený engine původně založený na Quake engine od id Software. 
 
 Engine GoldSrc byl použit původně pro Half-Life a následně i pro CS a další tituly Valve. 
 
-Programovací jazyky: 
+### Programovací jazyky: 
 
 GoldSrc engine a samotná hra jsou napsány především v jazycích C++ a C. 
 
-Vývojáři a SDK: 
+### Vývojáři a SDK: 
 
 Modifikace CS využívá Half-Life Software Development Kit (SDK), který poskytuje nástroje pro úpravy kódu i mapování. 
 
  
 
-Herní mechanismy a systémy 
+## Herní mechanismy a systémy 
 
-Ekonomický systém: 
+### Ekonomický systém: 
 
 Hráči získávají peníze za zabití, dokončení úkolů a výhru kola. Peníze se používají k nákupu zbraní a vybavení na začátku kol. Tento systém zvyšuje hloubku strategie hry.  
 
-Multiplayer a netcode: 
+### Multiplayer a netcode: 
 
 Síťový kód GoldSrc byl optimalizován tak, aby fungoval při různých pingech(PING = Rychlost Odezvy Serveru), což umožnilo plynulé online hraní i na starších připojeních.  
 
  
 
-Mapy a design 
+## Mapy a design 
 
 Mapy ve CS jsou navrženy tak, aby: 
 
@@ -64,11 +64,11 @@ Mapy se vytvářejí pomocí Valve Hammer Editor a dalších nástrojů ze SDK.
 
  
 
-Komunitní modifikace: 
+### Komunitní modifikace: 
 
 Existuje mnoho fanouškovských módů a projektů, které si hru přizpůsobily. Jedním z nich je např. CSPromod / Counter-Strike Professional Mod (založený na Source enginu, s mechanic podobnými 1.6). 
 
-Quake Engine → GoldSrc 
+## Quake Engine → GoldSrc 
 
 Half-Life byl postaven na silně upraveném Quake Engine (Quake Engine byl technický základ moderních 3D FPS her). 
 
@@ -88,9 +88,9 @@ GoldSrc nebyl jen „upravený Quake“, ale prakticky nový engine, který s Qu
 
  
 
-Programovací jazyky a nástroje 
+## Programovací jazyky a nástroje 
 
-Použité jazyky: 
+### Použité jazyky: 
 
 Vývoj Half-Life i Counter-Strike probíhal hlavně v: 
 
@@ -107,7 +107,7 @@ Vše bylo ručně psané.
 
  
 
-Half-Life SDK 
+### Half-Life SDK 
 
 Valve vydalo Half-Life SDK, které umožňovalo psát vlastní herní logiku, uprovovat chvoání zbraní, vytvářet nové entity, měnit multiplayerová pravidla. 
 
@@ -117,7 +117,7 @@ Counter-Strike vznikl výhradně pomocí tohoto SDK.
 
  
 
-Jak se programoval Half-Life 
+## Jak se programoval Half-Life 
 
 Architektura hry 
 
@@ -137,7 +137,7 @@ To znamená, že engine zůstal stejný, ale hra samotná byla samostatná kniho
 
  
 
-AI nepřátel (revoluce v době vydání) 
+## AI nepřátel (revoluce v době vydání) 
 
 Half-Life měl pokročilou AI, která: 
 
@@ -155,7 +155,7 @@ Každý nepřítel měl:
 
  
 
-Skriptované sekvence 
+## Skriptované sekvence 
 
 Valve vytvořilo systém skriptovaných událostí, aby hra působila filmově: 
 
@@ -173,9 +173,9 @@ Valve strávilo roky laděním chyb, kdy se NPC „zasekli“ nebo rozbili skrip
 
  
 
-Programování multiplayeru a síťového kódu 
+## Programování multiplayeru a síťového kódu 
 
-Klient–server model: 
+### Klient–server model: 
 
 Counter-Strike používal: 
 
@@ -189,7 +189,7 @@ To bylo zásadní pro omezení cheatů.
 
  
 
-Problémy se sítí 
+## Problémy se sítí 
 
 V roce 1999–2003: 
 
@@ -205,7 +205,7 @@ Valve řešilo:
 
  
 
-Programování zbraní 
+## Programování zbraní 
 
 Každá zbraň měla: 
 
@@ -221,13 +221,13 @@ Díky tomu vznikl skill-based gameplay.
 
  
 
-Vývojové problémy a chyby 
+## Vývojové problémy a chyby 
 
-Technická omezení: 
+### Technická omezení: 
 
 -Max. 32 hráčů, limit polygonů, limit paměti (32bit). 
 
-Bugy: 
+### Bugy: 
 
 -Hitboxy neseděly s animací, exploity map, desynchronizace klient/server. 
 
@@ -239,7 +239,7 @@ Valve opravovali chyby roky. Některé bugy se staly „feature“ (např. bunny
 
  
 
-Přechod od modu ke komerční hře 
+### Přechod od modu ke komerční hře 
 
 Valve: 
 
@@ -251,16 +251,16 @@ CS 1.6 byl:
 
  
 
-Závěr 
+## Závěr 
 
 Counter-Strike 1.6 není jen hra — je to fenomén, který změnil online multiplayer ságy, inspiroval esport i mnoho dalších her. Jeho jednoduchá, ale hluboká mechanika, spolu s podporou komunity, zajistila dlouhověkost, která trvá více než dvě dekády.  
 
  
 
-Projekt ještě není dodělaný!  
+ 
 
-Zdroje: ChatGPT, Wikipedie, Google 
+### Zdroje: ChatGPT, Wikipedie, Google 
 
-Tvůrce: Benedikt Janko 
+### Tvůrce: Benedikt Janko 
 
  
