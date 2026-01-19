@@ -2,7 +2,7 @@
 
 V této dokumentaci se budu převážně zaobírat původem hry Counter-Strike 1.6 a jak tahle legendární hra vznikla  
 
-Úvod do Counter-Strike 1.6 
+##Úvod do Counter-Strike 1.6 
 
 Counter-Strike je taktická first-person střílečka (FPS), ve které proti sobě bojují dva týmy -- teroristé a protiteroristé.  
 
