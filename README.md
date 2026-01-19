@@ -249,6 +249,40 @@ CS 1.6 byl:
 
 -Finální stabilní verze GoldSrc, technologický vrchol enginu 
 
+
+------------------------
+
+## Demo + HLTV (Jak natočit zápas)
+
+Místo natáčení při hraní:
+
+-Nahraješ demo (do konzole: record demo), potom si ho přehraješ a točíš až dodatečně.
+
+Výhody:
+
+-můžeš měnit kameru, zpomalovat / zrychlovat, přibližovat, dělat cinematic záběry.
+
+Typy kamer:
+
+-Free camera (poletuješ mapou), third person, spectator pohled, zpomalené akce (slow motion).
+
+
+
+## Jak točit CS 1.6
+
+nahrávat demo, ne rovnou video
+
+použít:
+
+viewdemo
+
+demoui
+
+HLAE (Half-Life Advanced Effects)
+
+renderovat do obrázků → složit ve střižně
+
+
  
 
 ## Závěr 
