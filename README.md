@@ -235,9 +235,7 @@ Valve opravovali chyby roky. Některé bugy se staly „feature“ (např. bunny
 
  
 
- 
 
- 
 
 ### Přechod od modu ke komerční hře 
 
@@ -248,6 +246,8 @@ Valve:
 CS 1.6 byl: 
 
 -Finální stabilní verze GoldSrc, technologický vrchol enginu 
+
+
 
 
 
@@ -268,7 +268,126 @@ Výhody:
 -Free camera (poletuješ mapou), third person, spectator pohled, zpomalené akce (slow motion).
 
 
+## Moje zkušenosti:
 
+-Já vždy pužíval aplikaci OBS a v kozoli "record demo"
+
+
+
+
+
+## Potřebné vybavení (základ soutěžního hraní)
+
+
+###Počítač
+
+-Stabilní FPS (100+) – CS 1.6 je navázaný na FPS (Bez kvalitního počítače to nejde. FPS dokážou ovlivnit i spray transfer což zásadně ovlivňuje hraní.
+
+
+
+### Myš
+
+-Optická, bez akcelerace
+
+-Osvědčené typy (historicky): Logitech MX518 / G400, SteelSeries Kana, DPI: 400 / 800, Velká podložka (low-sens styl).
+
+
+### Klávesnice
+
+-Nezáleží na RGB
+
+Důležité: spolehlivé WASD, rychlá odezva.
+
+
+### Sluchátka
+
+-Uzavřená, dobrý prostorový zvuk.
+
+-Musíš slyšet: kroky, přebíjení, drop zbraně, atd..
+
+
+### Internet
+
+-LAN > Wi-Fi
+
+-nízký ping (<30 ms ideál), stabilita > rychlost.
+
+
+
+### Základní herní nastavení (MUST HAVE)
+
+-fps_max 0, rate 25000, cl_cmdrate 101, cl_updaterate 101, ex_interp 0.01, (každý má svojte osobní nastavení, co mu vyhovuje).
+
+-sensitivity 1.5 – 2.5 (dle DPI), m_rawinput 1, m_filter 0
+
+-Crosshair: Malý, kontrastní, bez dynamiky, viditelný na každém pozadí
+
+
+
+### Individuální trénink (DENNĚ)
+
+-Metody: aim_map, aim_headshot, deathmatch servery, faceit
+
+
+
+### Týmový trénink (ROZHODUJE ZÁPASY)
+
+-Komunikace: krátká, jasná, bez emocí
+
+
+
+### Taktiky:
+
+-default, eco, anti-eco, pistol round
+
+Každý hráč má roli:
+
+entry
+
+AWPer
+
+support
+
+lurker
+
+IGL
+
+🎮 Scrimy & zápasy
+
+pravidelně proti lepším týmům
+
+po zápase:
+
+rozbor chyb
+
+demo review
+
+🧘 6️⃣ Mentální a fyzická stránka (často přehlížená)
+
+✔ Spánek
+✔ Hydratace
+✔ Přestávky
+✔ Klid pod tlakem
+
+💡 Tilt = ztráta zápasu
+
+📅 7️⃣ Příklad tréninkového dne (2–3 hodiny)
+Čas	Trénink
+20 min	AIM map
+20 min	Deathmatch
+15 min	Spray
+20 min	Grenady
+30 min	Scrim / mix
+15 min	Demo review
+🏆 Co dělá soutěžního hráče dobrým
+
+konzistence
+
+disciplína
+
+týmová hra
+
+hlava > reflexy
 
  
 
