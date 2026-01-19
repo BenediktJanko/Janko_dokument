@@ -2,7 +2,7 @@
 
 V této dokumentaci se budu převážně zaobírat původem hry Counter-Strike 1.6 a jak tahle legendární hra vznikla  
 
-##Úvod do Counter-Strike 1.6 
+## Úvod do Counter-Strike 1.6 
 
 Counter-Strike je taktická first-person střílečka (FPS), ve které proti sobě bojují dva týmy -- teroristé a protiteroristé.  
 
@@ -10,9 +10,9 @@ Hra se zaměřuje na týmovou strategii, ekonomii a realistické zbraně.
 
 Verze 1.6 je nejznámější a nejoblíbenější historická verze, která se stala standardem pro kompetitivní hraní a esport po mnoho let. 
 
-##Historie a vývoj hry 
+## Historie a vývoj hry 
 
-###Původní koncept: 
+### Původní koncept: 
 
 Counter-Strike vznikl jako modifikace (mód) pro hru Half-Life. Tento mód vytvořili Minh „Gooseman“ Le a Jess Cliffe v roce 1999. První veřejná beta verze byla vydána 19. června 1999. 
 
