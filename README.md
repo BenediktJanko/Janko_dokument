@@ -10,9 +10,9 @@ Hra se zaměřuje na týmovou strategii, ekonomii a realistické zbraně.
 
 Verze 1.6 je nejznámější a nejoblíbenější historická verze, která se stala standardem pro kompetitivní hraní a esport po mnoho let. 
 
-Historie a vývoj hry 
+##Historie a vývoj hry 
 
-Původní koncept: 
+###Původní koncept: 
 
 Counter-Strike vznikl jako modifikace (mód) pro hru Half-Life. Tento mód vytvořili Minh „Gooseman“ Le a Jess Cliffe v roce 1999. První veřejná beta verze byla vydána 19. června 1999. 
 
@@ -20,7 +20,7 @@ Verze 1.6 byla finální opravou a balíčkem všech předchozích úprav, kter�
 
  
 
-Technologie a programování 
+##Technologie a programování 
 
 Herní engine: 
 
