@@ -352,10 +352,7 @@ Důležité: spolehlivé WASD, rychlá odezva.
 
 -po zápase: rozbor chyb, demo review, Mentální a fyzická stránka (často přehlížená)
 
--Spánek
--Hydratace
--Přestávky
--Klid pod tlakem
+-Spánek, Hydratace, Přestávky, Klid pod tlakem
 
 
 
