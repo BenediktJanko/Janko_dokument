@@ -336,60 +336,29 @@ Důležité: spolehlivé WASD, rychlá odezva.
 
 
 
+
 ### Taktiky:
 
 -default, eco, anti-eco, pistol round
 
-Každý hráč má roli:
+-Každý hráč má roli: entry, AWPer, support, lurker, IGL
 
-entry
 
-AWPer
 
-support
 
-lurker
+### Scrimy & zápasy
 
-IGL
+-Pravidelně proti lepším týmům
 
-🎮 Scrimy & zápasy
+-po zápase: rozbor chyb, demo review, Mentální a fyzická stránka (často přehlížená)
 
-pravidelně proti lepším týmům
+-Spánek
+-Hydratace
+-Přestávky
+-Klid pod tlakem
 
-po zápase:
 
-rozbor chyb
 
-demo review
-
-🧘 6️⃣ Mentální a fyzická stránka (často přehlížená)
-
-✔ Spánek
-✔ Hydratace
-✔ Přestávky
-✔ Klid pod tlakem
-
-💡 Tilt = ztráta zápasu
-
-📅 7️⃣ Příklad tréninkového dne (2–3 hodiny)
-Čas	Trénink
-20 min	AIM map
-20 min	Deathmatch
-15 min	Spray
-20 min	Grenady
-30 min	Scrim / mix
-15 min	Demo review
-🏆 Co dělá soutěžního hráče dobrým
-
-konzistence
-
-disciplína
-
-týmová hra
-
-hlava > reflexy
-
- 
 
 ## Závěr 
 
