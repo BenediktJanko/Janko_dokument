@@ -133,7 +133,7 @@ Game DLL:
 
  
 
-To znamená, že engine zůstal stejný, ale hra samotná byla samostatná knihovna. 
+### To znamená, že engine zůstal stejný, ale hra samotná byla samostatná knihovna. 
 
  
 
@@ -143,7 +143,6 @@ Half-Life měl pokročilou AI, která:
 
 -Komunikovala mezi NPC, reagovala na zvuk kryla se, obcházela hráče. 
 
- 
 
 Každý nepřítel měl: 
 
@@ -161,11 +160,7 @@ Valve vytvořilo systém skriptovaných událostí, aby hra působila filmově:
 
 -NPC se pohybují,  mluví, aktivují objekty. 
 
-To byl obrovský technický problém, protože: 
-
--Hráč mohl událost přerušit, engine musel reagovat dynamicky. 
-
- 
+To byl obrovský technický problém, protože hráč mohl událost přerušit, engine musel reagovat dynamicky. 
 
 Valve strávilo roky laděním chyb, kdy se NPC „zasekli“ nebo rozbili skript. 
 
@@ -197,14 +192,6 @@ V roce 1999–2003:
 
  
 
-Valve řešilo: 
-
--Client-side prediction, lag compensation, interpolaci pohybu, CS 1.6 byl vrchol optimalizace GoldSrc netcode. 
-
- 
-
- 
-
 ## Programování zbraní 
 
 Každá zbraň měla: 
@@ -213,7 +200,7 @@ Každá zbraň měla:
 
 -Parametry: Damage, recoil pattern, přesnost, kadenci, pohybovou penalizaci. 
 
-Recoil nebyl náhodný: 
+### Recoil nebyl náhodný: 
 
 -Byl deterministický, založený na předem definovaných hodnotách 
 
