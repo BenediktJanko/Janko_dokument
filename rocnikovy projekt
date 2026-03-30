@@ -220,9 +220,6 @@ Bugy:
 
 Valve opravovali chyby roky. Některé bugy se staly „feature“ (např. bunny hop) 
 
- 
-
- 
 
  
 
@@ -235,6 +232,64 @@ Valve:
 CS 1.6 byl: 
 
 -Finální stabilní verze GoldSrc, technologický vrchol enginu 
+
+
+
+
+
+## Interpolace vs. Predikce: Jak engine "hádá" realitu
+
+-Aby hra nebyla jen sérií trhaných "teleportů", používá dvě klíčové techniky:
+
+
+## Klientská predikce (Prediction)
+
+
+-Týká se tebe. Když stiskneš klávesu "W", tvůj počítač nečeká, až server potvrdí pohyb. 
+
+-Okamžitě tě posune dopředu na tvé obrazovce. Pokud by server později poslal data, že jsi narazil do zdi, 
+engine tě "přitáhne" zpět (známý rubber-banding).
+
+
+## Interpolace (Interpolation - ex_interp)
+
+
+-Týká se ostatních hráčů. Server posílá aktualizace o poloze nepřátel v určitých intervalech (např. každých 50 ms). 
+Bez interpolace by nepřátelé "skákali" z bodu A do bodu B.
+
+-Interpolace vezme poslední dva známé body a plynule mezi nimi nepřítele "dokreslí".
+
+-Příkaz ex_interp 0.1 znamená, že vidíš hráče se zpožděním 100 ms oproti serveru, ale jejich pohyb je naprosto hladký.
+Pro kompetitivní hraní se používá ex_interp 0.01 (při cl_updaterate 100), což minimalizuje zpoždění, ale vyžaduje stabilní připojení.
+
+
+##  Co se děje při vysokém pingu? (Vizuální schéma)
+
+-Při vysokém pingu (např. 150 ms+) vzniká propast mezi tím, co vidíš, a tím, co registruje server.
+
+### Střelba na "ducha": Ty vidíš model hráče tam, kde byl před 150 ms. Pokud na něj vystřelíš, server už ví, že tam hráč není. 
+Výsledek? Krev stříká, ale hit se nezapočítá.
+
+-Zpoždění hitregu: Pokud někoho trefíš, zpráva o zásahu letí na server dlouho. Může se stát, že tě soupeř zabije dříve, než tvůj výstřel dorazí na server, a tvůj výstřel je pak anulován.
+
+-Peekers Advantage: Hráč s vysokým pingem vyběhne za roh. Na jeho obrazovce tě už vidí a střílí, ale serveru trvá 150 ms, než tuhle informaci pošle tobě. Pro tebe se soupeř objeví a 
+okamžitě tě zabije (nemáš čas reagovat).
+
+
+## Tabulka: Povinné nastavení pro kompetitivní hraní
+
+-Tato nastavení optimalizují tok datových paketů mezi tvým PC a serverem.
+
+## Proč na tom záleží?
+
+-Špatné nastavení (např. nízký cl_updaterate) způsobí, že se modely nepřátel budou pohybovat trhaně, i když máš nízký ping. Naopak vysoký rate na špatné lince způsobí ztrátu paketů (loss),
+což vede k mizení střel a "zasekávání" zvuků.
+
+-Tip do zápisků: V CS 1.6 platí pravidlo: Netgraph 3 je tvůj nejlepší přítel. Sleduj hodnoty Loss (ztráta dat) a Choke (nestíhající linka/nastavení). Obě musí být ideálně na 0.
+
+
+
+
 
  
 
