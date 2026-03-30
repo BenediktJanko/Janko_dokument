@@ -267,6 +267,7 @@ Pro kompetitivní hraní se používá ex_interp 0.01 (při cl_updaterate 100), 
 
 -Při vysokém pingu (např. 150 ms+) vzniká propast mezi tím, co vidíš, a tím, co registruje server.
 
+
 ### Střelba na "ducha": Ty vidíš model hráče tam, kde byl před 150 ms. Pokud na něj vystřelíš, server už ví, že tam hráč není. 
 Výsledek? Krev stříká, ale hit se nezapočítá.
 
@@ -276,9 +277,11 @@ Výsledek? Krev stříká, ale hit se nezapočítá.
 okamžitě tě zabije (nemáš čas reagovat).
 
 
+
 ## Tabulka: Povinné nastavení pro kompetitivní hraní
 
 -Tato nastavení optimalizují tok datových paketů mezi tvým PC a serverem.
+
 
 ## Proč na tom záleží?
 
