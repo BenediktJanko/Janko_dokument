@@ -243,7 +243,7 @@ CS 1.6 byl:
 
 
 
-## Klientská predikce (Prediction)
+### Klientská predikce (Prediction)
 
 
 -Týká se tebe. Když stiskneš klávesu "W", tvůj počítač nečeká, až server potvrdí pohyb. 
@@ -254,7 +254,7 @@ engine tě "přitáhne" zpět (známý rubber-banding).
 
 
 
-## Interpolace (Interpolation - ex_interp)
+### Interpolace (Interpolation - ex_interp)
 
 
 -Týká se ostatních hráčů. Server posílá aktualizace o poloze nepřátel v určitých intervalech (např. každých 50 ms). 
