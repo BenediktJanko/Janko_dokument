@@ -289,6 +289,7 @@ okamžitě tě zabije (nemáš čas reagovat).
 -Tato nastavení optimalizují tok datových paketů mezi tvým PC a serverem.
 
 
+
 ## Proč na tom záleží?
 
 -Špatné nastavení (např. nízký cl_updaterate) způsobí, že se modely nepřátel budou pohybovat trhaně, i když máš nízký ping. Naopak vysoký rate na špatné lince způsobí ztrátu paketů (loss),
@@ -301,6 +302,7 @@ což vede k mizení střel a "zasekávání" zvuků.
 
 ## Demo + HLTV (Jak natočit CS 1.6)
 
+
 ### Místo natáčení při hraní:
 
 -Nahraješ demo (do konzole: record demo), potom si ho přehraješ a točíš až dodatečně.
@@ -310,6 +312,7 @@ což vede k mizení střel a "zasekávání" zvuků.
 Výhody:
 
 -můžeš měnit kameru, zpomalovat / zrychlovat, přibližovat, dělat cinematic záběry.
+
 
 ### Typy kamer:
 
@@ -409,7 +412,8 @@ Důležité: spolehlivé WASD, rychlá odezva.
 
 ## Závěr 
 
-Counter-Strike 1.6 není jen hra — je to fenomén, který změnil online multiplayer ságy, inspiroval esport i mnoho dalších her. Jeho jednoduchá, ale hluboká mechanika, spolu s podporou komunity, zajistila dlouhověkost, která trvá více než dvě dekády.  
+Counter-Strike 1.6 není jen hra — je to fenomén, který změnil online multiplayer ságy, inspiroval esport i mnoho dalších her.
+Jeho jednoduchá, ale hluboká mechanika, spolu s podporou komunity, zajistila dlouhověkost, která trvá více než dvě dekády.  
 
  
 
