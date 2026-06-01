@@ -242,6 +242,7 @@ CS 1.6 byl:
 -Aby hra nebyla jen sérií trhaných "teleportů", používá dvě klíčové techniky:
 
 
+
 ## Klientská predikce (Prediction)
 
 
@@ -249,6 +250,8 @@ CS 1.6 byl:
 
 -Okamžitě tě posune dopředu na tvé obrazovce. Pokud by server později poslal data, že jsi narazil do zdi, 
 engine tě "přitáhne" zpět (známý rubber-banding).
+
+
 
 
 ## Interpolace (Interpolation - ex_interp)
@@ -263,6 +266,8 @@ Bez interpolace by nepřátelé "skákali" z bodu A do bodu B.
 Pro kompetitivní hraní se používá ex_interp 0.01 (při cl_updaterate 100), což minimalizuje zpoždění, ale vyžaduje stabilní připojení.
 
 
+
+
 ##  Co se děje při vysokém pingu? (Vizuální schéma)
 
 -Při vysokém pingu (např. 150 ms+) vzniká propast mezi tím, co vidíš, a tím, co registruje server.
@@ -275,6 +280,7 @@ Výsledek? Krev stříká, ale hit se nezapočítá.
 
 -Peekers Advantage: Hráč s vysokým pingem vyběhne za roh. Na jeho obrazovce tě už vidí a střílí, ale serveru trvá 150 ms, než tuhle informaci pošle tobě. Pro tebe se soupeř objeví a 
 okamžitě tě zabije (nemáš čas reagovat).
+
 
 
 
