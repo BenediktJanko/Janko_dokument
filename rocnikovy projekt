@@ -299,6 +299,111 @@ což vede k mizení střel a "zasekávání" zvuků.
 
 
 
+## Demo + HLTV (Jak natočit CS 1.6)
+
+### Místo natáčení při hraní:
+
+-Nahraješ demo (do konzole: record demo), potom si ho přehraješ a točíš až dodatečně.
+
+-viewdemo, demoui, HLAE (Half-Life Advanced Effects) 
+
+Výhody:
+
+-můžeš měnit kameru, zpomalovat / zrychlovat, přibližovat, dělat cinematic záběry.
+
+### Typy kamer:
+
+-Free camera (poletuješ mapou), third person, spectator pohled, zpomalené akce (slow motion).
+
+
+## Moje zkušenosti:
+
+-Já vždy pužíval aplikaci OBS a v kozoli "record demo"
+
+
+
+
+
+## Potřebné vybavení (základ soutěžního hraní)
+
+
+###Počítač
+
+-Stabilní FPS (100+) – CS 1.6 je navázaný na FPS (Bez kvalitního počítače to nejde. FPS dokážou ovlivnit i spray transfer což zásadně ovlivňuje hraní.
+
+
+
+### Myš
+
+-Optická, bez akcelerace
+
+-Osvědčené typy (historicky): Logitech MX518 / G400, SteelSeries Kana, DPI: 400 / 800, Velká podložka (low-sens styl).
+
+
+### Klávesnice
+
+-Nezáleží na RGB
+
+Důležité: spolehlivé WASD, rychlá odezva.
+
+
+### Sluchátka
+
+-Uzavřená, dobrý prostorový zvuk.
+
+-Musíš slyšet: kroky, přebíjení, drop zbraně, atd..
+
+
+### Internet
+
+-LAN > Wi-Fi
+
+-nízký ping (<30 ms ideál), stabilita > rychlost.
+
+
+
+### Základní herní nastavení (MUST HAVE)
+
+-fps_max 0, rate 25000, cl_cmdrate 101, cl_updaterate 101, ex_interp 0.01, (každý má svojte osobní nastavení, co mu vyhovuje).
+
+-sensitivity 1.5 – 2.5 (dle DPI), m_rawinput 1, m_filter 0
+
+-Crosshair: Malý, kontrastní, bez dynamiky, viditelný na každém pozadí
+
+
+
+### Individuální trénink (DENNĚ)
+
+-Metody: aim_map, aim_headshot, deathmatch servery, faceit
+
+
+
+### Týmový trénink (ROZHODUJE ZÁPASY)
+
+-Komunikace: krátká, jasná, bez emocí
+
+
+
+
+### Taktiky:
+
+-default, eco, anti-eco, pistol round
+
+-Každý hráč má roli: entry, AWPer, support, lurker, IGL
+
+
+
+
+### Scrimy & zápasy
+
+-Pravidelně proti lepším týmům
+
+-po zápase: rozbor chyb, demo review, Mentální a fyzická stránka (často přehlížená)
+
+-Spánek, Hydratace, Přestávky, Klid pod tlakem
+
+
+
 
  
 
